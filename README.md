@@ -1,5 +1,3 @@
-<!-- Run `bundle exec jekyll serve --host 172.26.180.212` -port 4000 to start on WSL -->
-
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
